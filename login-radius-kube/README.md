@@ -11,7 +11,7 @@
 * Docker : 17.12.0-ce
 
 ## Deployment Architecture
-See drive folder named as Imgaes
+See drive folder 
 
 ## IP mappings
 
